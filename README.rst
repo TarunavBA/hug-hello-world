@@ -13,6 +13,10 @@ Installation
     $ cd Hug-Hello-world
     $ python setup.py install
 
+Contributing
+------------
+You can submit your contributions by submitting a Pull request.
+
 License
 -------
 
