@@ -18,9 +18,7 @@ with open('hug_hello_world/__init__.py', 'r') as f:
 with open('README.rst', 'r', encoding='utf-8') as f:
     readme = f.read()
 
-REQUIRES = [
-    Hug,
-]
+REQUIRES = []
 
 kwargs = {
     'name': 'Hug-Hello-world',
