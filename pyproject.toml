@@ -1,0 +1,17 @@
+[metadata]
+name = 'Hug-Hello-world'
+version = '0.0.1'
+description = ''
+author = 'Tarunav BA'
+author_email = 'tarunavba@gmail.com'
+license = 'MIT'
+url = 'https://github.com/_/Hug-Hello-world'
+
+[requires]
+python_version = ['2.7', '3.5', '3.6', 'pypy', 'pypy3']
+
+[build-system]
+requires = ['setuptools', 'wheel']
+
+[tool.hatch.commands]
+prerelease = 'hatch build'
